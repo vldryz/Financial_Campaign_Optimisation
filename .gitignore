@@ -1,0 +1,7 @@
+/venv/
+.idea/
+*.pyc
+.vscode
+dataset.csv
+.venv/
+.DS_Store
