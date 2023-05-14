@@ -20,7 +20,7 @@ The institution planned to conduct targeted promotional phone calls, offering cu
 
 4) **Model Evaluation**: Select a suitable performance metric and use it to evaluate the model‘s out-of-sample performance on the test set.
 
-### **Additional Contributions**
+### **Additional Contributions and Result**
 
 1) **Data Preparation**: Beyond the original instructions, an in-depth exploratory data analysis was conducted, leveraging Plotly for data visualisation. This analysis revealed significant insights, such as the imbalance in the target column, patterns in call success rates related to the day of the week, month, and time since the last contact.
 
@@ -40,7 +40,7 @@ The second task involved using the predictions from Part 1 to devise an optimal 
 
 2) **Policy Evaluation**: Apply your approach to the test dataset and estimate the expected impact of your optimised policy relative to a randomised feasible allocation. State any simplifying assumptions you make as part of this evaluation.
 
-### **Additional Contributions**
+### **Additional Contributions and Result**
 
 1) **Optimisation Problem Definition**: Given the probabilities of successful calls, we formulated the optimisation problem as a maximisation problem, which aims to maximise the total probability of successful calls while not exceeding the available capacity of the customer support team.
 
