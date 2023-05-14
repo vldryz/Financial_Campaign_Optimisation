@@ -2,6 +2,10 @@
 
 This repository contains the solution to a technical challenge presented during a hiring process for a Data Scientist role. The challenge, divided into two parts, tested coding skills, data science knowledge, and problem-solving abilities. All code is written in Python (version 3.10 and above) and presented in a Jupyter notebook, with detailed documentation.
 
+## **TLDR**
+
+This repository demonstrates an end-to-end solution to a financial promotional campaign optimisation problem. The project involves extensive exploratory data analysis using Plotly, feature engineering, and the development of predictive models via XGBoost and sklearn. It further utilises Google's OR-Tools for optimisation tasks, maximising the effectiveness of the promotional campaign under specified constraints. The comprehensive data-driven approach resulted in a significant projected profit increase, showcasing the power of combining data science techniques with strategic decision-making.
+
 ## **Part 1: Prediction**
 
 ### **Overview**
